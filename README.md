@@ -59,7 +59,8 @@ cd Foot-Fall-Analysis
    python main.py
 
 
-🎥** How It Works**
+##🎥** How It Works**
+
 📌 1. Capture Video Frames
 
 Handled by Cam.py
